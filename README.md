@@ -13,8 +13,12 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  href="www.google.com" src="https://i.picasion.com/pic91/21dbee0efe2107e652c6a877b0064cd9.gif" />
+
 </div>
+  
+  <div>
+      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  href="www.google.com" src="https://i.picasion.com/pic91/21dbee0efe2107e652c6a877b0064cd9.gif" />
+    </di>
   
   
 
