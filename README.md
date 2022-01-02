@@ -1,4 +1,4 @@
-## Olá !! eu sou o DanielGomes42 !!
+## Olá !! eu sou o Daniel Gomes !!
 <div align="center">
   <a href="https://github.com/DanielGomes42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes42&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
