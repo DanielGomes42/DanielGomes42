@@ -1,13 +1,23 @@
 ## Olá !! eu sou o Daniel Gomes !!
 <div align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=DanielGomes42&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-       alt="Estatísticas do GitHub de Daniel Gomes" />
+<div align="center">
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes42&layout=compact&langs_count=7&theme=github_dark"
-       alt="Linguagens mais usadas por Daniel Gomes" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGomes42&theme=github_dark"
+       alt="Estatísticas do GitHub" />
+
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielGomes42&theme=github_dark"
+       alt="Linguagens mais usadas" />
+
+</div>
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomes42&theme=github_dark"
+       alt="GitHub Profile Details" />
+
+</div>
 
 </div>
  
@@ -31,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   <div> 
-  <a href="https://www.instagram.com/dgx_daniel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/danielgomes__s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:damsilva757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-gomes-a75b58226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
