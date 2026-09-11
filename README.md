@@ -1,8 +1,14 @@
 ## Olá !! eu sou o Daniel Gomes !!
 <div align="center">
-  <a href="https://github.com/DanielGomes42">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGomes42&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes42&layout=compact&langs_count=7&theme=dark"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=DanielGomes42&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+       alt="Estatísticas do GitHub de Daniel Gomes" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomes42&layout=compact&langs_count=7&theme=github_dark"
+       alt="Linguagens mais usadas por Daniel Gomes" />
+
 </div>
  
   <div style="display: inline_block"><br>
